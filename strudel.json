@@ -1,6 +1,6 @@
 {
-  "_base": "https://raw.githubusercontent.com/drtac7/dirt_hack/samples/main/",
-  "carpet": "carpet.mp3",
-  "wilhelm": "wilhelm.ogg",
-  "hl2_door": "wood_move.wav"
+  "_base": "https://raw.githubusercontent.com/drtac7/dirt_hack/main/",
+  "carpet": "samples/carpet.mp3",
+  "wilhelm": "samples/wilhelm.ogg",
+  "hl2_door": "samples/wood_move.wav"
 }
